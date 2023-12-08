@@ -9,7 +9,7 @@
   var n2 = 10;
   var sum = n1+n2;
   
-  document.write("Sum is  = " + sum);
+  document.write("Sum = " + sum);
   
 </script>
 </head>
